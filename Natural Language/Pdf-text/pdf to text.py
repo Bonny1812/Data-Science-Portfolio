@@ -23,7 +23,7 @@ nltk.download('stopwords')
 # In[75]:
 
 
-pdfFileObj = open(r'C:\Users\bjoseph\Documents\Sourav Resume\BI\bonny_joseph.pdf','rb')
+pdfFileObj = open(FilePath,'rb')
 #The pdfReader variable is a readable object that will be parsed.
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
 
