@@ -20,10 +20,10 @@
 ## Demo
 Link: [https://creditcarddefaulter.herokuapp.com/](https://creditcarddefaulter.herokuapp.com/)
 
-[![image](https://user-images.githubusercontent.com/67459585/86573140-2c8d9380-bf31-11ea-9911-a99700adcb84.png)](https://indian-currency-prediction.herokuapp.com/)
+[![image](https://user-images.githubusercontent.com/67459585/86573140-2c8d9380-bf31-11ea-9911-a99700adcb84.png)](https://creditcarddefaulter.herokuapp.com/)
 
 ## Overview
-This is a simple image classification Flask app trained on the top of Keras API. The trained model (`app/model/model.h5`) takes an image (Indian Paper Currency) as an input and predict the class of image from __10, 20, 50, 100, 200, 500, 2000__ denomination.
+This is a simple Credit Card Defaulter Prediction Streamlit Flask app. 
 
 ## Motivation
 What could be a perfect way to utilize unfortunate lockdown period? Like most of you, I spend my time in cooking, Netflix, coding and reading some latest research papers on weekends. The idea of classifying indian currency struck to me when I was browsing through some research papers. I couldn't find any relevant research paper (and of course dataset!) associated with it. And that led me to collect the images of Indian currency to train a deep learning model using [this](https://github.com/hardikvasa/google-images-download) amazing tool.
