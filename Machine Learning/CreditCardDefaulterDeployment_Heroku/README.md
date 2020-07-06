@@ -18,7 +18,7 @@
 
 
 ## Demo
-Link: [https://indian-currency-prediction.herokuapp.com](https://indian-currency-prediction.herokuapp.com/)
+Link: [https://creditcarddefaulter.herokuapp.com/](https://creditcarddefaulter.herokuapp.com/)
 
 [![](https://i.imgur.com/5gj4USj.png)](https://indian-currency-prediction.herokuapp.com/)
 
