@@ -5,6 +5,7 @@ This repo contains problems related to Machine Learning and Deep Learning.
 | Section | Sub-Section | Description | Story |
 | --- | --- | --- | --- |
 | HyperParameter Tuning |  | Random Search, GridSearch, Bayesian Optimization with Gaussian Process, Hyperopt, Optuna| [Github](https://github.com/Bonny1812/Data-Science-Portfolio/blob/master/Machine%20Learning/sample/Hyperparameter_tuning.ipynb) |
+| Feature Engineering |  | Imputations | [Github](https://github.com/Bonny1812/Data-Science-Portfolio/blob/master/Machine%20Learning/sample/Complete%20Feature%20Engineering.ipynb) |
 
 ## Machine Learning
 | Section | Sub-Section | Description | Story |
